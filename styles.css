@@ -1,0 +1,60 @@
+/*
+
+Title: Stylesheet Template
+
+Author: Sharon(Shuang) Zhang
+
+*/
+
+body{
+	background: url(images/backgroundsetc-waves-5.jpg);
+	font-size: 16px;
+	font-family: "Trebuchet MS", helvetica, sans-serif;
+	margin:0 auto;
+}
+/* Typography
+----------------------------------------*/
+
+header {
+font-family: Impact, Charcoal, sans-serif;
+font-size: 20px;
+margin:0 auto;
+}
+#title{
+font-size: 100px;
+
+}
+.align-right {
+	float:right;
+	margin:1em 1em 1em 0;
+}
+#container {
+	margin: 0 auto;
+	padding: 1em 3em;
+	width:100%;
+	max-width: 960px;
+	background-color: white;
+}
+
+
+
+h1 {
+	line-height: 0.1;
+	color:#77787b;
+}
+
+
+.sub {
+	color:#3a96d8;
+font-size: 60px;
+}
+
+h2 {
+	color:blue;
+	gont-size:1em;
+}
+
+p{
+	color:#555555;
+}
+
